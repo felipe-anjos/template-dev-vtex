@@ -1,0 +1,32 @@
+{
+  "name": "aw-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe-anjos/template-dev-vtex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipe-anjos/aw-store/issues"
+  },
+
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.14.1"
+  }
+}
